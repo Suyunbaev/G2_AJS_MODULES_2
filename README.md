@@ -1,1 +1,1 @@
-# ajs-hw-modules_2
+# G2_AJS_MODULES_2

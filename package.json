@@ -1,0 +1,31 @@
+{
+  "name": "ajs-hw-modules_2",
+  "version": "1.0.0",
+  "description": "'modules-task_2'",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "lint": "eslint .",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suyunbaev/G2_AJS_MODULES_2.git"
+  },
+  "author": "AnnV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suyunbaev/G2_AJS_MODULES_2/issues"
+  },
+  "homepage": "https://github.com/Suyunbaev/G2_AJS_MODULES_2#readme",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "html-webpack-plugin": "^4.3.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
